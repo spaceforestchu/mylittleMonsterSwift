@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8F850398DA70C010E201AA0AB594B009EC4ED26",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "058A04D5A350E388740C2F05E813CA0A08CE751C" : 0,
+    "A8F850398DA70C010E201AA0AB594B009EC4ED26" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E970E53-AF19-4A73-A238-77ED8F8F5CAE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "058A04D5A350E388740C2F05E813CA0A08CE751C" : "",
+    "A8F850398DA70C010E201AA0AB594B009EC4ED26" : "mylittlemonster\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mylittlemonster",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "mylittlemonster\/mylittlemonster.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/spaceforestchu\/Swift_practices.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "058A04D5A350E388740C2F05E813CA0A08CE751C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/spaceforestchu\/mylittleMonsterSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8F850398DA70C010E201AA0AB594B009EC4ED26"
+    }
+  ]
+}
