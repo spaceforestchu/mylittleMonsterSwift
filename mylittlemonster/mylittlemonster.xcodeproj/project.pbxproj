@@ -13,6 +13,7 @@
 		3D7333FF1D345D0C00B3C9FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D7333FE1D345D0C00B3C9FB /* Assets.xcassets */; };
 		3D7334021D345D0C00B3C9FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D7334001D345D0C00B3C9FB /* LaunchScreen.storyboard */; };
 		3D73340A1D348A5600B3C9FB /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7334091D348A5600B3C9FB /* DragImg.swift */; };
+		3D73340C1D348EF500B3C9FB /* MonsterImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D73340B1D348EF500B3C9FB /* MonsterImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D7334011D345D0C00B3C9FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D7334031D345D0C00B3C9FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D7334091D348A5600B3C9FB /* DragImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
+		3D73340B1D348EF500B3C9FB /* MonsterImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonsterImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				3D7334001D345D0C00B3C9FB /* LaunchScreen.storyboard */,
 				3D7334031D345D0C00B3C9FB /* Info.plist */,
 				3D7334091D348A5600B3C9FB /* DragImg.swift */,
+				3D73340B1D348EF500B3C9FB /* MonsterImg.swift */,
 			);
 			path = mylittlemonster;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D73340C1D348EF500B3C9FB /* MonsterImg.swift in Sources */,
 				3D7333FA1D345D0C00B3C9FB /* ViewController.swift in Sources */,
 				3D73340A1D348A5600B3C9FB /* DragImg.swift in Sources */,
 				3D7333F81D345D0C00B3C9FB /* AppDelegate.swift in Sources */,
